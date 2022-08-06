@@ -1,2 +1,3 @@
 # chrome-extension-1
-A chrone extension tha aimed to loop the youtube video without changing the webpage.
+This is the first step of learning how to make chrome extension. 
+I guess it is useless to you.
